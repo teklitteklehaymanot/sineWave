@@ -1,0 +1,9 @@
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\bin\Debug\sinWave.exe.config
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\bin\Debug\sinWave.exe
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\bin\Debug\sinWave.pdb
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\obj\Debug\sinWave.Form1.resources
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\obj\Debug\sinWave.Properties.Resources.resources
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\obj\Debug\sinWave.csproj.GenerateResource.Cache
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\obj\Debug\sinWave.exe
+c:\users\titi\documents\visual studio 2015\Projects\sinWave\sinWave\obj\Debug\sinWave.pdb
+C:\Users\TITI\Documents\Visual Studio 2015\Projects\sinWave\sinWave\obj\Debug\sinWave.csprojResolveAssemblyReference.cache
